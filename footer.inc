@@ -1,1 +1,1 @@
-<footer>&copy; 2025 Sang. All rights reserved.</footer>
+<footer><p>&copy; 2025 Sang. All rights reserved.</p></footer>
