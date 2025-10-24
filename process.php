@@ -6,7 +6,7 @@
     if ($username == 'admin' && $password == 'password123'){
         $_SESSION['user'] = $username;
         header('Location: welcome.php');
-    } else{
+    }else{
         echo "Invalid login. <a href='login.html'>Try again</a>";
     }
 ?>
